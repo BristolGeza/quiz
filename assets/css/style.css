@@ -1,10 +1,13 @@
 body{
+    margin-left: 10%;
 	font-size: 20px;
 	font-family: sans-serif;
 	color: #333;
+    background-color: beige;
 }
 .question{
 	font-weight: 600;
+    color: red;
 }
 .answers {
   margin-bottom: 20px;
@@ -15,14 +18,14 @@ body{
 #submit{
 	font-family: sans-serif;
 	font-size: 20px;
-	background-color: #279;
+	background-color: rgb(38, 40, 41);
 	color: #fff;
 	border: 0px;
 	border-radius: 3px;
-	padding: 20px;
+	padding: 10px;
 	cursor: pointer;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 #submit:hover{
-	background-color: #38a;
+	background-color: rgb(2, 27, 37);
 }
