@@ -75,32 +75,32 @@
     const submitButton = document.getElementById('submit');
     const myQuestions = [
       {
-        question: "Who invented JavaScript?",
+        question: "Who are you?",
         answers: {
-          a: "Douglas Crockford",
-          b: "Sheryl Sandberg",
-          c: "Brendan Eich"
+          a: "A Robot",
+          b: "An Alien from Mars",
+          c: "A human being"
         },
         correctAnswer: "c"
       },
       {
-        question: "Which one of these is a JavaScript package manager?",
+        question: "What is your foot size?",
         answers: {
-          a: "Node.js",
-          b: "TypeScript",
-          c: "npm"
+          a: "147**23",
+          b: "9",
+          c: "34/%!+"
         },
-        correctAnswer: "c"
+        correctAnswer: "b"
       },
       {
-        question: "Which tool can you use to ensure code quality?",
+        question: "How many eyes do you have?",
         answers: {
-          a: "Angular",
-          b: "jQuery",
-          c: "RequireJS",
-          d: "ESLint"
+          a: "17",
+          b: "2",
+          c: "1",
+          d: "56"
         },
-        correctAnswer: "d"
+        correctAnswer: "b"
       }
     ];
   
